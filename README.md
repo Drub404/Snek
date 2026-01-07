@@ -1,9 +1,9 @@
 # Snek Beginner Projects
 
-  This repository contains my **first steps in Python**.  
+  This repository contains my first steps in Python.  
 I use these projects to learn the basics of programming and to better understand how to build logic step by step.
 
-Everything here is **learning work**: experiments, exercises, and small scripts that gradually improve over time.
+Everything here is learning work: experiments, exercises, and small scripts that gradually improve over time.
 
 ---
 
@@ -31,6 +31,6 @@ This repository may include:
   - input validation exercises
 - refactored versions of older code to make it cleaner and more robust
 
-Not every file is “perfect” — and that’s intentional.
+Not every file is “perfect” and that’s intentional.
 
 ---
